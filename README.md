@@ -28,7 +28,7 @@ csv-data-analyser/
  
 1. Clone the repository
 ```bash
-   git clone https://github.com/YOUR_USERNAME/csv-data-analyser.git
+   git clone https://github.com/joshdr251/csv-data-analyser.git
    cd csv-data-analyser
 ```
  
